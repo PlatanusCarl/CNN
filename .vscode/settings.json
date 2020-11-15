@@ -1,3 +1,17 @@
 {
-    "python.pythonPath": "D:\\Program Files\\Python\\Python37\\python.exe"
+    "python.pythonPath": "/home/luods/anaconda3/bin/python",
+    "python.autoComplete.extraPaths": [
+        "/home/luods/anaconda3/lib/python3.4/site-packages"
+        ],
+        "python.linting.flake8Enabled": false,
+        "python.formatting.provider": "autopep8",
+        "python.unitTest.unittestEnabled": true,
+        "python.unitTest.pyTestEnabled": true,
+        "python.unitTest.nosetestsEnabled": false,
+        "[cpp]": {
+        "editor.quickSuggestions": false
+        },
+        "[c]": {
+        "editor.quickSuggestions": false
+        }
 }
